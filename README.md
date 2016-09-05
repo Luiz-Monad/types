@@ -14,6 +14,7 @@
 - [Programming macRo tree transducers](http://www.diku.dk/~paba/pubs/files/bahr13wgp-paper.pdf)
 - [Proofs and types](http://www.paultaylor.eu/stable/prot.pdf)
 - [The programming language JigSaw mixins modularity multiple inheritance](http://www.bracha.org/jigsaw.pdf)
+- [Type Systems](http://lucacardelli.name/papers/typesystems.pdf)
 - [The two dualities Of computatiOn negative and fractional types](http://www.cs.indiana.edu/~sabry/papers/rational.pdf)
 - [Type theory and functional programming](https://www.cs.kent.ac.uk/people/staff/sjt/TTFP/)
 - [Type theory should eat itself](http://cs.ioc.ee/~james/papers/lfmtp08_jmc.pdf)
